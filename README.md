@@ -1,5 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project - GA Data Science Immersive
-## Using Census Data to Map and Model Health in England and Wales. 
+## PICTURE OF HEALTH: Using Census Data to Map and Model Health in England and Wales. 
 
 This repository contains notebooks for my Capstone Project for General Assembly's Data Science Immersive.
 ### Introduction and Aims: 
