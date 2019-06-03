@@ -1,7 +1,7 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project - GA Data Science Immersive
-## PICTURE OF HEALTH: Using Census Data to Map and Model Health in England and Wales. 
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Capstone Project - Picture of Health
+## Using Census Data to Map and Model Health in England and Wales. 
 
-This repository contains notebooks for my Capstone Project for General Assembly's Data Science Immersive.
+This repository contains notebooks for my Capstone Project completed during General Assembly's Data Science Immersive.
 ### Introduction and Aims: 
 The UK census is carried out once every 10 years, and a wealth of information from it is made available for public study. This project seeks to use data from the most recent 2011 Census for England and Wales to map and model areas of poor health across England and Wales. A model will be successful if it can be used to accurately predict levels of poor health based off predictor features, and return information about how these predictor features contribute towards the model.
 
