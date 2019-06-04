@@ -34,5 +34,5 @@ This notebook contains the bulk of my project, including all EDA, mapping, and m
 
 Findings from the project, and possible next steps. 
 
-NB: If you want to make use of the html links in the notebooks, please view them by pasting the links into https://nbviewer.jupyter.org/
+NB: For full functionality of html links within each notebook, please view them by pasting the notebook link into https://nbviewer.jupyter.org/
 
